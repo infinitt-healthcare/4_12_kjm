@@ -59,19 +59,4 @@ int main()
 	Division Div;
 	Div.div(A, B);
 	
-	
-	
-	
-
-
-	
-	
-
-
-
-
-
-
-
-
 }
